@@ -1,0 +1,7 @@
+"Description: ","Dates where precipitation > 200 mm or abs(temperature) > 50 degrees."
+"Station: ","final_1971_2005_Paris_rcp85"
+"Latitude: ","48.85"
+"Longitude: ","2.35"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-01"
+Date,Prec,TX,TN

@@ -1,0 +1,8 @@
+"Description: ","Dates where TN>TX"
+"Station: ","final_1971_2005_Berlin_rcp85"
+"Latitude: ","52.51"
+"Longitude: ","13.4"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-01"
+Date,Prec,TX,TN
+2007-4-9,3.789414144,3.89590000000004,4.11740000000003

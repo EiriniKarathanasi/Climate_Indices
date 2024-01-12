@@ -1,0 +1,10 @@
+"Description: ","Dates where TX values have been repeated more than 4 times."
+"Station: ","final_1971_2005_Kiev_rcp45"
+"Latitude: ","50.45"
+"Longitude: ","30.51"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-01"
+"Date","TN","Number of duplicates"
+1993-3-21,-1.81359999999995,4
+2058-7-5,15.8532,4
+2099-12-28,-0.0789999999999508,4

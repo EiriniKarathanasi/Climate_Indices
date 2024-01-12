@@ -1,0 +1,10 @@
+"Description: ","Dates where TX values have been repeated more than 4 times."
+"Station: ","final_1971_2005_Constantinople_rcp45"
+"Latitude: ","41.01"
+"Longitude: ","28.97"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-01"
+"Date","TN","Number of duplicates"
+2002-8-19,19.8371,4
+2066-9-18,20.2419,4
+2092-5-30,18.9869,4

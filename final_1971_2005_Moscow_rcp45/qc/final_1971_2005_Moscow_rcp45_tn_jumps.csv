@@ -1,0 +1,12 @@
+"Description: ","Dates where the change in TN is > 20 degrees."
+"Station: ","final_1971_2005_Moscow_rcp45"
+"Latitude: ","55.75"
+"Longitude: ","37.56"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-01"
+Date,TN
+1972-1-28,-17.7864
+1984-12-25,-21.4131
+2001-2-6,-19.5246
+2016-12-30,-24.4524
+2021-12-23,-21.7292

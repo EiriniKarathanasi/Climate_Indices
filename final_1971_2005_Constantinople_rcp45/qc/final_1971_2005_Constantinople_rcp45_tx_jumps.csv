@@ -1,0 +1,8 @@
+"Description: ","Dates where the change in TX is > 20 degrees."
+"Station: ","final_1971_2005_Constantinople_rcp45"
+"Latitude: ","41.01"
+"Longitude: ","28.97"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-01"
+Date,TX
+"NO LARGE TX JUMPS FOUND"

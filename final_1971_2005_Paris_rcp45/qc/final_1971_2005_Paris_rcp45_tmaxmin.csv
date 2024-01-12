@@ -1,0 +1,8 @@
+"Description: ","Dates where TN>TX"
+"Station: ","final_1971_2005_Paris_rcp45"
+"Latitude: ","48.85"
+"Longitude: ","2.35"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-01"
+Date,Prec,TX,TN
+1973-10-20,1.517901984,5.38010000000003,5.86670000000004

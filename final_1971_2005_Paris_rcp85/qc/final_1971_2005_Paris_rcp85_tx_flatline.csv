@@ -1,0 +1,8 @@
+"Description: ","Dates where TX values have been repeated more than 4 times."
+"Station: ","final_1971_2005_Paris_rcp85"
+"Latitude: ","48.85"
+"Longitude: ","2.35"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-01"
+"Date","TX","Number of duplicates"
+2039-7-22,23.5834,4
