@@ -1,0 +1,9 @@
+"Description: ","Dates where TN>TX"
+"Station: ","final_1971_2005_Madrid_rcp85"
+"Latitude: ","40.38"
+"Longitude: ","-3.69"
+"Climpact_version: ","3.1.6"
+"Date_of_calculation: ","2024-01-02"
+Date,Prec,TX,TN
+2081-12-27,3.205674144,15.9337,16.7024
+2081-12-28,0.473339808,16.5887,16.9471
